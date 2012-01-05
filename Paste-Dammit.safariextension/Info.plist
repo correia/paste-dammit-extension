@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Jim Correia</string>
+	<key>Builder Version</key>
+	<string>7534.52.7</string>
+	<key>CFBundleDisplayName</key>
+	<string>Paste, Dammit!</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.icloud.members.jimcorreia.paste-my-password-dammit.safari-extension</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>fixInputElements.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Some web sites disallow pasting into password fields. This extension fixes that misfeature.</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
