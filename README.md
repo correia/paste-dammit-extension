@@ -6,13 +6,13 @@ https://github.com/correia/paste-dammit-extension
 What is it?
 -----------
 
-Some web sites[1] disable paste in input elements. Sometimes this is well intentioned[2], 
+Some websites[1] disable paste in input elements. Sometimes this is well intentioned[2], 
 but still wrongheaded, and extremely annoying.
 
 This extension fixes that misfeature.
 
 It does not try to exhaustively detect every technique used to disable paste, but traps
-the common case on the web sites I use. (If it doesn't work for you, please submit a pull
+the common case on the websites I use. (If it doesn't work for you, please submit a pull
 request along with a test case.)
 
 [1] I most recently ran into this on two Apple pages:
