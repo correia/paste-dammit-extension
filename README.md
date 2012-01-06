@@ -31,10 +31,11 @@ request along with a test case.)
 Installation
 ------------
 
-There is currently no “binary” release.
+Download the latest binary release from the Downloads page:
 
-In order to use this extension, you must have a Safari developer account, and build your
-own extension package with the Safari Extesion Builder.
+    https://github.com/downloads/correia/paste-dammit-extension/Paste-Dammit.safariextz
+    
+Double-click on the extension to install it.
 
 Uninstall
 ---------
