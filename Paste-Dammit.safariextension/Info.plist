@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.1</string>
+	<string>0</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>2</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -42,6 +42,8 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://github.com/downloads/correia/paste-dammit-extension/update-manifest.plist</string>
 	<key>Website</key>
 	<string>https://github.com/correia/paste-dammit-extension</string>
 </dict>
