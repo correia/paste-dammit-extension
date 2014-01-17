@@ -31,9 +31,9 @@ request along with a test case.)
 Installation
 ------------
 
-Download the latest binary release from the Downloads page:
+Download the latest binary release from the Releases page:
 
-    https://github.com/downloads/correia/paste-dammit-extension/Paste-Dammit.safariextz
+    https://github.com/correia/paste-dammit-extension/releases
     
 Double-click on the extension to install it.
 
